@@ -1,0 +1,7 @@
+pytest==7.3.1
+pytest-html==3.2.0
+pytest-metadata==2.0.4
+requests==2.30.0
+tomli==2.0.1
+urllib3==1.26.6
+jproperties==2.1.1
