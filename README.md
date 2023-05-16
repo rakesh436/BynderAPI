@@ -6,7 +6,7 @@ After forking this project in `Github`, run these commands:
 
 ```bash
 ## clone this repo to a local directory
-git clone 
+git clone https://github.com/rakesh436/BynderAPI.git
 
 ```
 
